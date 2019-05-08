@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="text_small">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_small_colored">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="text_regular">
+        <item name="android:textSize">@dimen/font_regular</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_medium">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_large">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_big">
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text_huge">
+        <item name="android:textSize">@dimen/font_huge</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

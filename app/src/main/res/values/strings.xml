@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">transit-app-task</string>
+    <string name="data_file">data.json</string>
+    <string name="time_min">%d min</string>
+    <plurals name="changes_number">
+        <item quantity="zero">%d change</item>
+        <item quantity="one">%d change</item>
+        <item quantity="other">%d changes</item>
+    </plurals>
+    <string name="change">Change</string>
+    <string name="google_map_key">AIzaSyCC6BZWO_Yvg8PiRQdy9_HltvG6D9807_A</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="requestPermission">Please grant location permission in order to use this app</string>
+</resources>
